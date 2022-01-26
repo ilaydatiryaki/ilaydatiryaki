@@ -6,7 +6,7 @@
 
 #### Skills and Experience : 
 
-Java , Python, HTML, CSS, JS, SQL
+Java , Python, HTML, CSS, JS, SQL, UI/UX .
 
 - 🌱 I am currently developing myself in technology. I am learning programming languages and libraries. 
 - 💬 You can ask me. 
