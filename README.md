@@ -1,6 +1,6 @@
 
 # Ilayda Tiryaki  🦄
-#### I really enjoy learning technology, languages and frameworks.  
+#### I'm Electrical and Electronics Engineer. I'm really enjoy learning technology, languages and frameworks.  
 
 
 
