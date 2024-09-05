@@ -3,11 +3,6 @@
 #### I studied Electrical and Electronics Engineering. I'm really enjoy learning technology, languages and frameworks.  
 
 
-
-#### Skills and Experience : 
-
-Java , Python, HTML, CSS, JS, SQL, UI/UX .
-
 - 🌱 I am currently developing myself in technology. I am learning programming languages and libraries. 
 - 💬 You can ask me. 
 - ⚡ Fun fact: There is no cloud. It's just someone else's computer. ☁️ 💻
