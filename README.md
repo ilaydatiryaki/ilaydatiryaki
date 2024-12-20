@@ -1,6 +1,6 @@
 
 # Ilayda Tiryaki  🦄
-#### I studied Electrical and Electronics Engineering. I'm really enjoy learning technology, languages and frameworks.  
+#### I studied Electrical and Electronics Engineering. I'm really enjoy learning technology and frameworks.  
 
 
 - 🌱 I am currently developing myself in technology. I am learning programming languages and libraries. 
