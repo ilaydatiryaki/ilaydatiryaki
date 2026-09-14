@@ -1,6 +1,6 @@
 
 # Ilayda Tiryaki  🦄
-#### I studied Electrical and Electronics Engineering. I'm really enjoy learning technology and frameworks.  
+#### I am an Electrical-Electronics Engineer. I gained entrepreneurial experience during university, and started working in the corporate sector after graduating. I currently work as an engineer at an international company. I'm really enjoy learning technology and frameworks.  
 
 
 - 🌱 I am currently developing myself in technology. I am learning programming languages and libraries. 
